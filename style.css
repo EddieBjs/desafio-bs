@@ -1,0 +1,54 @@
+
+/* DISEÑO DE BODY */
+
+body {
+    background-color: black;
+    position: relative;
+    font-family: 'Asap Condensed', sans-serif;
+    color:white;
+    flex: wrap;
+    gap: 3.5rem;
+}
+/* DISEÑO DE HEADER */
+
+.bg-light {
+    background-color: grey;
+}
+
+.bg-light logo {
+    width: 150px;
+}
+
+
+    .container { 
+        max-width: 1100px;
+        margin: px auto;
+
+    }
+
+    #portafolio { 
+        padding: 50px 0;
+        text-align: center;
+  }
+
+    .portafolio-row { 
+        display: flex;
+        justify-content: space-between;
+        
+    }
+
+    .portafolio-row-box {
+        flex: 1;
+        border: 4px solid gray;
+        margin: 20px 10px; }
+
+        .portafolio-row-box h4 {
+            padding-top: 10px;
+        }
+
+        .portafolio-row-box p  { 
+            padding: 0 20px 0 10px; }
+
+
+    
+/* FOOTER */
